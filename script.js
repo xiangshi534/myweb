@@ -1,9 +1,11 @@
 document.addEventListener("DOMContentLoaded", function () {
   const musicPaths = [
-    "musci/shei.mp3",
-    "musci/shanhuhai.mp3",
-    "musci/buyihan.mp3",
-    "musci/xiaohai.mp3",
+    "myweb/shei.mp3",
+    "myweb/shanhuhai.mp3",
+    
+    "myweb/xiaohai.mp3",
+    "myweb/jiangnan.mp3",
+    "myweb/huahai.mp3"
   ];
   let currentMusicIndex = 0;
   let isPlayed = false;
