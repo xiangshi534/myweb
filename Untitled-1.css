@@ -32,7 +32,7 @@ section,
 }
 
 #footer {
-  background-image: url(./tupian/lishoilovexx.jpg);
+  background-image: url(/myweb/tupian/lishoilovexx.jpg);
   background-color: #c0b5aa;
   background-size: cover;
   height: 100vh;
@@ -53,38 +53,38 @@ section,
 }
 
 #img-one {
-  background-image: url(./tupian/814939db030f4ed7fcb0eadd5855f92.jpg);
+  background-image: url(/myweb/tupian/814939db030f4ed7fcb0eadd5855f92.jpg);
   background-size: cover;
 }
 
 .content-one {
-  background: url(./tupian/gaozhong.jpg) no-repeat fixed center;
+  background: url(/myweb/tupian/gaozhong.jpg) no-repeat fixed center;
   background-size: cover;
   height: 1500px;
 }
 
 .content-two {
-  background: url(./tupian/yinzi.jpg) no-repeat fixed center;
+  background: url(/myweb/tupian/yinzi.jpg) no-repeat fixed center;
   background-size: cover;
 }
 
 .content-three {
-  background: url(./tupian/qinghuangdao.jpg) no-repeat fixed center;
+  background: url(/myweb/tupian/qinghuangdao.jpg) no-repeat fixed center;
   background-size: cover;
 }
 
 .content-four {
-  background: url(./tupian/handan3.jpg) no-repeat fixed center;
+  background: url(/myweb/tupian/handan3.jpg) no-repeat fixed center;
   background-size: cover;
 }
 
 .content-five {
-  background: url(./tupian/shuaizhao.jpg) no-repeat fixed center;
+  background: url(/myweb/tupian/shuaizhao.jpg) no-repeat fixed center;
   background-size: cover;
 }
 
 .content-six {
-  background: url(./tupian/haoduo.jpg) no-repeat fixed center;
+  background: url(/myweb/tupian/haoduo.jpg) no-repeat fixed center;
   background-size: contain;
   height: 1500px;
 }
