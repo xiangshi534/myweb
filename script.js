@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const musicPaths = [
     "/myweb/shei.mp3",
     "/myweb/shanhuhai.mp3",
-    “/myweb/kbky.mp3”
+    “/myweb/kbky.mp3”,
     
     "/myweb/xiaohai.mp3",
     "/myweb/jiangnan.mp3",
